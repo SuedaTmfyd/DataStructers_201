@@ -1,1 +1,1 @@
-// implementations of algorithms showned during third semester
+// implementations of algorithms and data types included in JDK library showned during third semester
